@@ -1,6 +1,6 @@
 # Computer vision controller for full automation in an MMORPG game
 
-The controller was designed as a cross-platform solution using .NET C# and XAML in WPF .NET, and additionally, a messenger bot was developed to fully automate the gaming process.
+The controller was designed as a cross-platform multithreading solution using .NET C# and XAML in WPF .NET, and additionally, a messenger bot was developed to fully automate the gaming process.
 
 The unique color-coding technique was developed for transferring data through images; the Dijkstra algorithm was employed for navigating in the graph path structure; OCR is used to recognize enemies and text in the game. 
 
