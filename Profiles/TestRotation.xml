@@ -1,0 +1,37 @@
+<Profile>
+	<MainDots>
+		<MainDot Name="1s"/>
+		<MainDot Name="6s"/>
+	</MainDots>
+	<Buffs>                	
+	</Buffs>
+	<HpBuffs>
+	</HpBuffs>
+	<MpBuffs>
+	</MpBuffs>
+	<Combats>
+		<HookSpell Name="" Key="2"/> <!--Always-->
+		<MainSpell Name="" Key="2"/>
+		<AtackRange Trigger="35"/> <!--Distance to mob-->
+		<TargetHeight Height="7"/> <!--Lable above mob-->
+		<TargetRectangle X="30" Y="150" W="1500" H="600"/>
+		<TargetMouseSpeed Value="13"/>
+	</Combats>
+	<GlobalSettings>
+		<YellowMobsTarget Enabled="true"/>
+		<Loot Enabled="true"/>
+		<Skin Enabled="false" Tries="40"/>
+		<Facing Key="p"/>
+		<TargetLastTarget Key="T"/>
+		<ClearTarget Key="5"/>
+		<Mount Key="7" SpotEnabled="false"/>
+		<ConjureWater Key="-"/>
+		<ConjureFood Key="0"/>
+		<UseWater Key="9" Trigger="95"/>
+		<UseFood Key="8" Trigger="95"/>
+	</GlobalSettings>
+	<WhiteMobList>
+		<WhiteMob MobId="3098"/>
+	</WhiteMobList>
+	<Vendor Name="Duokna" VendorDot="v5" ReturnDot="11s" MountUnmountDot="v4"/>
+</Profile>

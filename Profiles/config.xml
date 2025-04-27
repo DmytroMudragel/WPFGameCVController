@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Commonsettings>
+    <Bot PcId="MyPC" />
+    <Telegram ApiKey="" UserId="" />
+    <Backward Key="R" />
+    <StopAutoMovement Key="S" />
+    <StartMovement Key="Q" />
+    <TurnLeft Key="A" />
+    <TurnRight Key="D" />
+    <Jump Key="SPACE" />
+    <LastProfile Path="E:\Profiles\Test6lvlRotation.xml" />
+    <LastNav Path="E:\Profiles\Text6lvl.xml" />
+    <Login login="" />
+    <Password password="" />
+    <LastX lastX="51.92" />
+    <LastY lastY="49.85" />
+    <OneSessionTime time="2" />
+    <BetweenSessionTime time="2" />
+  </Commonsettings>
+  <Pixelsettings start="7" height="35" size="26">
+    <X position="1" />
+    <Y position="2" />
+    <Angle position="3" />
+    <Hp position="4" />
+    <Mp position="4" />
+    <TargetHp position="4" />
+    <Aggro position="5" colorHex="e480ff" />
+    <Targetdistance position="6" />
+    <Targetdead position="19" />
+    <Targetgrey position="19" />
+    <Died position="7" colorHex="e480ff" />
+    <Mounted position="8" colorHex="73ffd6" />
+    <Repair position="9" colorHex="f89a7e" />
+    <Bag position="10" colorHex="be4771" />
+    <Whishper position="11" colorHex="ffd8ae" />
+    <FoodInfo position="12" />
+    <WaterInfo position="12" />
+    <Spellstatus position="13" />
+    <Needtoface position="14" colorHex="ff2000" />
+    <Mobid position="15" />
+    <Lootready position="16" colorHex="000000" />
+    <Moneycount position="17" />
+    <Isingame position="18" colorHex="19ff80" />
+    <FailedAttempt position="20" colorHex="ff2000" />
+  </Pixelsettings>
+</config>

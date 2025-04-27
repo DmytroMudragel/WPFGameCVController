@@ -1,0 +1,55 @@
+<Profile>
+	<MainDots>
+		<MainDot Name="24"/>
+		<MainDot Name="41"/>
+	</MainDots>
+	<Buffs>                
+		<Buff Name="Arcane Intellect" BeforeCombat="false" IsTarget="true" Trigger="0" CastDelay="1700" Key="f1"/>
+		<Buff Name="Ice Armor" BeforeCombat="false" IsTarget="true" Trigger="0" CastDelay="1700" Key="f2"/>
+     		<Buff Name="Dampel Magic" BeforeCombat="false" IsTarget="true" Trigger="0" CastDelay="600" Key="f3"/>
+ 		<Buff Name="Conjure Emerald" BeforeCombat="false" IsTarget="true" Trigger="0" CastDelay="600" Key="f7"/>
+		<Buff Name="Ice Barrier" CastDelay="30" Trigger="0" IsTarget="false" BeforeCombat="true" Key="6"/>
+		<Buff Name="Motes" BeforeCombat="false" IsTarget="false" Trigger="0" CastDelay="1700" Key="="/>
+	</Buffs>
+	<HpBuffs>
+		<HpBuff Name="Ice Barrier" BeforeCombat="true" IsTarget="false" Trigger="75" CastDelay="27" Key="6"/>
+		<HpBuff Name="Mana Shield" BeforeCombat="true" IsTarget="false" Trigger="75" CastDelay="10" Key="7"/>
+		<HpBuff Name="LifeStone" BeforeCombat="false" IsTarget="false" Trigger="20" CastDelay="1700" Key="f5"/>
+		<HpBuff Name="Healing potion" BeforeCombat="false" IsTarget="false" Trigger="15" CastDelay="120" Key="j"/>
+		<HpBuff Name="Elemental" BeforeCombat="false" IsTarget="false" Trigger="30" CastDelay="180" Key="8"/>
+		<HpBuff Name="Frost Nova" BeforeCombat="false" IsTarget="true" Trigger="95" CastDelay="21" Key="5"/>
+		<HpBuff Name="Fire Blast" BeforeCombat="false" IsTarget="true" Trigger="40" CastDelay="8" Key="l"/>
+		<HpBuff Name="Fire Blast" BeforeCombat="false" IsTarget="true" Trigger="20" CastDelay="8" Key="l"/>
+		<HpBuff Name="Arcane Explosion" BeforeCombat="false" IsTarget="true" Trigger="15" CastDelay="8" Key="4"/>
+		<HpBuff Name="Ice Lance" BeforeCombat="false" IsTarget="true" Trigger="5" CastDelay="2" Key="2"/>
+	</HpBuffs>
+	<MpBuffs>
+		<MpBuff Name="Mana Emerald" CastDelay="120" Trigger="30" IsTarget="false" BeforeCombat="false" Key="f6"/>
+		<MpBuff Name="" CastDelay="120" Trigger="20" IsTarget="false" BeforeCombat="false" Key="k"/>
+	</MpBuffs>
+	<Combats>
+		<HookSpell Name="" Key="2"/> <!--Always-->
+		<MainSpell Name="" Key="1"/>
+		<AtackRange Trigger="50"/> <!--Distance to mob-->
+		<TargetHeight Height="20"/> <!--Lable above mob-->
+		<TargetRectangle X="30" Y="150" W="1500" H="600"/>
+		<TargetMouseSpeed Value="13"/>
+	</Combats>
+	<GlobalSettings>
+		<YellowMobsTarget Enabled="false"/>
+		<Loot Enabled="true"/>
+		<Skin Enabled="false" Tries="40"/>
+		<Facing Key="p"/>
+		<TargetLastTarget Key="T"/>
+		<ClearTarget Key="f4"/>
+		<Mount Key="9" SpotEnabled="true"/>
+		<ConjureWater Key="f9"/>
+		<ConjureFood Key="f8"/>
+		<UseWater Key="-" Trigger="65"/>
+		<UseFood Key="0" Trigger="65"/>
+	</GlobalSettings>
+	<WhiteMobList>
+		<WhiteMob MobId="17981"/>
+	</WhiteMobList>
+	<Vendor Name="Paulsta'ats" VendorDot="w6" ReturnDot="38" MountUnmountDot="w3"/>
+</Profile>

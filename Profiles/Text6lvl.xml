@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<DotsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SpotDots>
+    <Dot Name="s1" X="51.9" Y="50.86" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="s2" X="51.23" Y="51.43" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="s3" X="50.51" Y="52.2" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="s4" X="50.93" Y="53.44" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="s5" X="53.07" Y="52.63" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="s6" X="53.49" Y="50.5" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="s7" X="52.11" Y="48.66" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+  </SpotDots>
+  <VendorDots>
+    <Dot Name="v1" X="52.84" Y="42.26" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="v2" X="52.58" Y="43.2" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="v3" X="52.46" Y="44.44" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="v4" X="52.7" Y="46.35" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="v5" X="52.33" Y="48.12" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="v0" X="52.79" Y="41.61" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="v00" X="52.92" Y="41.24" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+  </VendorDots>
+  <GhostDots>
+    <Dot Name="g1" X="53.38" Y="45.57" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="g2" X="52.87" Y="47.9" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+  </GhostDots>
+  <EdgeList>
+    <Edge Dot1="s1" Dot2="s2" />
+    <Edge Dot1="s3" Dot2="s2" />
+    <Edge Dot1="s3" Dot2="s4" />
+    <Edge Dot1="s5" Dot2="s4" />
+    <Edge Dot1="s5" Dot2="s6" />
+    <Edge Dot1="s7" Dot2="s6" />
+    <Edge Dot1="s1" Dot2="s7" />
+    <Edge Dot1="g1" Dot2="g2" />
+    <Edge Dot1="s7" Dot2="g2" />
+    <Edge Dot1="v1" Dot2="v2" />
+    <Edge Dot1="v3" Dot2="v2" />
+    <Edge Dot1="v3" Dot2="v4" />
+    <Edge Dot1="v5" Dot2="v4" />
+    <Edge Dot1="v5" Dot2="s7" />
+    <Edge Dot1="v00" Dot2="v0" />
+    <Edge Dot1="v1" Dot2="v0" />
+  </EdgeList>
+</DotsList>

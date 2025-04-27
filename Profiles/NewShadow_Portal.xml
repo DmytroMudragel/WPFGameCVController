@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<DotsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SpotDots>
+    <Dot Name="xupipae" X="75.59" Y="62.32" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="hydycae" X="75.57" Y="64.13" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="xunoqo" X="77.03" Y="68.45" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="lypuqi" X="78.47" Y="68.75" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="lymyme" X="78.56" Y="67.13" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="shibaejae" X="77.67" Y="66.92" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="haeliqae" X="77.44" Y="65.27" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="saedyzhae" X="76.14" Y="66.04" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+  </SpotDots>
+  <VendorDots>
+    <Dot Name="bafaeve" X="75.34" Y="61.09" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="shewugu" X="75.76" Y="58.34" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="zharaeso" X="75.78" Y="56" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="jaefodo" X="75.19" Y="53.93" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="raebebe" X="73.69" Y="52.8" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="kiweju" X="72.72" Y="50.96" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="tabybae" X="71.2" Y="50.08" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="maekigu" X="68.67" Y="48.88" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="mecaero" X="65.89" Y="48.92" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="lypuwy" X="63.78" Y="46.84" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="kupibo" X="61.63" Y="45.23" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="badaezhe" X="60.72" Y="43.53" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="banyvi" X="58.08" Y="42.76" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="dadaexae" X="56.26" Y="42.76" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="sygucae" X="55.66" Y="41.87" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="zhexege" X="54.96" Y="41.03" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="kaezhany" X="54.53" Y="40.16" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="xaejobo" X="53.78" Y="39.79" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="naejaetu" X="53.68" Y="38.55" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="micaely" X="53.29" Y="38.25" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+  </VendorDots>
+  <GhostDots>
+    <Dot Name="gugaeha" X="86.79" Y="50.28" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="pykaeha" X="84.29" Y="50.12" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="milama" X="82.91" Y="50.03" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="fujofu" X="82.63" Y="51.33" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="qetepo" X="81.67" Y="52.51" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="naenego" X="80.2" Y="52.85" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="gyheje" X="79.05" Y="53" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="teneny" X="77.83" Y="54.04" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="hatage" X="76.87" Y="55.05" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="hjguyt" X="75.95" Y="56.49" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="pavuji" X="75.54" Y="58.2" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="zhiqote" X="75.64" Y="60.47" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+  </GhostDots>
+  <EdgeList>
+    <Edge Dot1="xupipae" Dot2="hydycae" />
+    <Edge Dot1="lypuqi" Dot2="xunoqo" />
+    <Edge Dot1="lypuqi" Dot2="lymyme" />
+    <Edge Dot1="bafaeve" Dot2="shewugu" />
+    <Edge Dot1="bafaeve" Dot2="xupipae" />
+    <Edge Dot1="jaefodo" Dot2="zharaeso" />
+    <Edge Dot1="shewugu" Dot2="zharaeso" />
+    <Edge Dot1="raebebe" Dot2="jaefodo" />
+    <Edge Dot1="raebebe" Dot2="kiweju" />
+    <Edge Dot1="tabybae" Dot2="kiweju" />
+    <Edge Dot1="tabybae" Dot2="maekigu" />
+    <Edge Dot1="mecaero" Dot2="maekigu" />
+    <Edge Dot1="mecaero" Dot2="lypuwy" />
+    <Edge Dot1="kupibo" Dot2="lypuwy" />
+    <Edge Dot1="kupibo" Dot2="badaezhe" />
+    <Edge Dot1="banyvi" Dot2="badaezhe" />
+    <Edge Dot1="banyvi" Dot2="dadaexae" />
+    <Edge Dot1="sygucae" Dot2="dadaexae" />
+    <Edge Dot1="sygucae" Dot2="zhexege" />
+    <Edge Dot1="kaezhany" Dot2="zhexege" />
+    <Edge Dot1="kaezhany" Dot2="xaejobo" />
+    <Edge Dot1="naejaetu" Dot2="xaejobo" />
+    <Edge Dot1="naejaetu" Dot2="micaely" />
+    <Edge Dot1="gugaeha" Dot2="pykaeha" />
+    <Edge Dot1="milama" Dot2="pykaeha" />
+    <Edge Dot1="milama" Dot2="fujofu" />
+    <Edge Dot1="qetepo" Dot2="fujofu" />
+    <Edge Dot1="naenego" Dot2="qetepo" />
+    <Edge Dot1="naenego" Dot2="gyheje" />
+    <Edge Dot1="teneny" Dot2="gyheje" />
+    <Edge Dot1="teneny" Dot2="hatage" />
+    <Edge Dot1="hatage" Dot2="hjguyt" />
+    <Edge Dot1="pavuji" Dot2="hjguyt" />
+    <Edge Dot1="pavuji" Dot2="zhiqote" />
+    <Edge Dot1="xupipae" Dot2="zhiqote" />
+    <Edge Dot1="saedyzhae" Dot2="hydycae" />
+    <Edge Dot1="saedyzhae" Dot2="haeliqae" />
+    <Edge Dot1="saedyzhae" Dot2="xunoqo" />
+    <Edge Dot1="shibaejae" Dot2="haeliqae" />
+    <Edge Dot1="shibaejae" Dot2="lymyme" />
+    <Edge Dot1="pavuji" Dot2="zhiqote" />
+    <Edge Dot1="xupipae" Dot2="zhiqote" />
+  </EdgeList>
+</DotsList>

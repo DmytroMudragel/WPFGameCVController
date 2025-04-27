@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<DotsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SpotDots>
+    <Dot Name="1" X="57.07" Y="35.58" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="2" X="56.3" Y="35.72" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="3" X="55.8" Y="36.68" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="4" X="55.76" Y="37.67" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="5" X="55.31" Y="38.18" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="8" X="52.7" Y="43.07" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="9" X="51.81" Y="46.55" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="11" X="47.32" Y="49.54" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="12" X="47.09" Y="50.82" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="13" X="48" Y="52.58" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="14" X="47.31" Y="54.12" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="15" X="46.47" Y="55.31" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="16" X="45.29" Y="55.96" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="17" X="43.14" Y="56.87" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="18" X="43.18" Y="58.14" Radius="0.5" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="19" X="43.69" Y="59.28" Radius="0.5" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="20" X="43.24" Y="60.19" Radius="0.5" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="21" X="41.85" Y="60.36" Radius="0.5" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="22" X="40.26" Y="63.9" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="23" X="38.27" Y="63.81" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="24" X="38.84" Y="66.16" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="25" X="39.44" Y="68.73" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="26" X="39.72" Y="70.54" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="27" X="39.87" Y="72.36" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="28" X="40.77" Y="74.37" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="29" X="39.67" Y="75.45" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="30" X="38.11" Y="76.47" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="31" X="36.35" Y="77.09" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="32" X="35.17" Y="77.3" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="33" X="33.99" Y="76.68" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="34" X="33.1" Y="75.3" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="35" X="32.49" Y="73.67" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="36" X="32.23" Y="71.63" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="37" X="32.32" Y="69.37" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="38" X="33.21" Y="67.45" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="39" X="34.72" Y="65.74" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="40" X="36.42" Y="65.11" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="41" X="38.25" Y="64.95" Radius="0.5" Accuracy="1" ScreenshotTimeout="500" Mount="False" />
+    <Dot Name="10" X="47.13" Y="49.22" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="6" X="53.78" Y="40.55" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+    <Dot Name="7" X="53.07" Y="41.52" Radius="0.2" Accuracy="1" ScreenshotTimeout="100" Mount="False" />
+  </SpotDots>
+  <VendorDots>
+    <Dot Name="w1" X="31.72" Y="66.33" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+    <Dot Name="w2" X="29.86" Y="60.7" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+    <Dot Name="w3" X="30.74" Y="58.83" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+    <Dot Name="w4" X="30.72" Y="58.08" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+    <Dot Name="w5" X="30.65" Y="57.6" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+    <Dot Name="w6" X="30.56" Y="57.07" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+  </VendorDots>
+  <GhostDots>
+    <Dot Name="q1" X="32.92" Y="56.68" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+    <Dot Name="q2" X="32.98" Y="57.37" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+    <Dot Name="q3" X="32.93" Y="58.03" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+    <Dot Name="q4" X="33.03" Y="58.84" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+    <Dot Name="q5" X="33.25" Y="60.35" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+    <Dot Name="q6" X="33.79" Y="64.17" Radius="0.2" Accuracy="1" ScreenshotTimeout="200" Mount="False" />
+  </GhostDots>
+  <EdgeList>
+    <Edge Dot1="1" Dot2="2" />
+    <Edge Dot1="3" Dot2="2" />
+    <Edge Dot1="3" Dot2="4" />
+    <Edge Dot1="5" Dot2="4" />
+    <Edge Dot1="8" Dot2="9" />
+    <Edge Dot1="12" Dot2="11" />
+    <Edge Dot1="12" Dot2="13" />
+    <Edge Dot1="14" Dot2="13" />
+    <Edge Dot1="14" Dot2="15" />
+    <Edge Dot1="16" Dot2="15" />
+    <Edge Dot1="16" Dot2="17" />
+    <Edge Dot1="18" Dot2="17" />
+    <Edge Dot1="18" Dot2="19" />
+    <Edge Dot1="20" Dot2="19" />
+    <Edge Dot1="20" Dot2="21" />
+    <Edge Dot1="21" Dot2="22" />
+    <Edge Dot1="23" Dot2="22" />
+    <Edge Dot1="23" Dot2="24" />
+    <Edge Dot1="25" Dot2="24" />
+    <Edge Dot1="25" Dot2="26" />
+    <Edge Dot1="27" Dot2="26" />
+    <Edge Dot1="27" Dot2="28" />
+    <Edge Dot1="29" Dot2="28" />
+    <Edge Dot1="29" Dot2="30" />
+    <Edge Dot1="31" Dot2="30" />
+    <Edge Dot1="31" Dot2="32" />
+    <Edge Dot1="33" Dot2="32" />
+    <Edge Dot1="33" Dot2="34" />
+    <Edge Dot1="35" Dot2="34" />
+    <Edge Dot1="35" Dot2="36" />
+    <Edge Dot1="37" Dot2="36" />
+    <Edge Dot1="37" Dot2="38" />
+    <Edge Dot1="39" Dot2="38" />
+    <Edge Dot1="39" Dot2="40" />
+    <Edge Dot1="41" Dot2="40" />
+    <Edge Dot1="9" Dot2="10" />
+    <Edge Dot1="11" Dot2="10" />
+    <Edge Dot1="5" Dot2="6" />
+    <Edge Dot1="7" Dot2="6" />
+    <Edge Dot1="7" Dot2="8" />
+    <Edge Dot1="w1" Dot2="w2" />
+    <Edge Dot1="w3" Dot2="w2" />
+    <Edge Dot1="w3" Dot2="w4" />
+    <Edge Dot1="w5" Dot2="w4" />
+    <Edge Dot1="w5" Dot2="w6" />
+    <Edge Dot1="38" Dot2="w1" />
+    <Edge Dot1="q2" Dot2="q1" />
+    <Edge Dot1="q2" Dot2="q3" />
+    <Edge Dot1="q4" Dot2="q3" />
+    <Edge Dot1="q4" Dot2="q5" />
+    <Edge Dot1="q6" Dot2="q5" />
+    <Edge Dot1="q6" Dot2="39" />
+    <Edge Dot1="q6" Dot2="24" />
+  </EdgeList>
+</DotsList>

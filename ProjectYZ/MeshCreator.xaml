@@ -1,0 +1,52 @@
+﻿<Window x:Name="FormMain" x:Class="ProjectYZ.MeshCreator"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Pathfinder" Height="900" Width="1600"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        ResizeMode="CanMinimize"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14" SizeToContent="WidthAndHeight" FontSize="18" Closing="FormMain_Closing">
+    <Grid KeyUp="Grid_KeyUp">
+        <Canvas x:Name="CanvasBuilder" Background="Lavender" Margin="300,0,0,0" MouseRightButtonUp="CanvasBuilder_MouseRightButtonUp" Width="1300" Height="884" />
+        <TextBlock Text="Point1" Width="100" Margin="29,14,1465,832" TextAlignment="Center" Foreground="White" />
+        <TextBlock Text="Point2" Width="100" Margin="29,83,1465,763" TextAlignment="Center" Foreground="White"/>
+        <Button x:Name="CreateEdge" Content="Connect" HorizontalAlignment="Left" Height="39" Margin="158,35,0,0" VerticalAlignment="Top" Width="124" Click="CreateEdge_Click"/>
+        <TextBox x:Name="ClearPointName" HorizontalAlignment="Left" Height="30" Margin="25,198,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108"/>
+        <Button x:Name="ClearPointNameButton" Content="Clear" HorizontalAlignment="Left" Height="36" Margin="158,190,0,0" VerticalAlignment="Top" Width="124" Click="ClearPointNameButton_Click"/>
+        <TextBlock Text="Point Name" Width="100" Margin="29,170,1465,678" TextAlignment="Center" Foreground="White"/>
+        <TextBlock Text="" Margin="4,240,1304,643" Background="White" Height="1" />
+        <TextBlock Text="" Margin="4,159,1304,724" Background="White" Height="1" />
+        <TextBox x:Name="FirstEdgePointName" HorizontalAlignment="Left" Height="30" Margin="25,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="SecondEdgePointName" HorizontalAlignment="Left" Height="30" Margin="25,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108"/>
+        <Button x:Name="DeleteEdge" Content="Clear" HorizontalAlignment="Left" Height="36" Margin="158,105,0,0" VerticalAlignment="Top" Width="124" Click="DeleteEdge_Click"/>
+        <TextBox x:Name="PointCreateX" HorizontalAlignment="Left" Height="30" Margin="25,281,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="PointCreateRadius" HorizontalAlignment="Left" Height="30" Margin="25,344,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="PointCreateY" HorizontalAlignment="Left" Height="30" Margin="166,281,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="PointCreateAccuracy" HorizontalAlignment="Left" Height="30" Margin="166,344,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="PointCreateScreenshotTimeout" HorizontalAlignment="Left" Height="30" Margin="25,407,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="PointCreateName" HorizontalAlignment="Left" Height="30" Margin="87,545,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128"/>
+        <Button x:Name="PointFromWow" Content="Get coord from WOW" HorizontalAlignment="Left" Height="36" Margin="68,643,0,0" VerticalAlignment="Top" Width="167" Click="PointFromWow_Click"/>
+        <Button x:Name="PointManual" Content="Manual Point" HorizontalAlignment="Left" Height="36" Margin="87,595,0,0" VerticalAlignment="Top" Width="128" Click="PointManual_Click"/>
+        <TextBlock Text="Point Name" Margin="87,526,1379,326" TextAlignment="Center" Foreground="White"/>
+        <TextBlock Text="X" Margin="25,253,1467,595" TextAlignment="Center" Foreground="White"/>
+        <TextBlock Text="Y" Margin="166,253,1326,595" TextAlignment="Center" Foreground="White"/>
+        <TextBlock Text="Radius" Margin="25,316,1467,532" TextAlignment="Center" Foreground="White"/>
+        <TextBlock Text="Accuracy" Margin="166,316,1326,532" TextAlignment="Center" Foreground="White"/>
+        <TextBlock Text="Scr timeout" Margin="25,379,1467,469" TextAlignment="Center" Foreground="White"/>
+        <TextBlock Text="Mount" Margin="166,379,1326,469" TextAlignment="Center" Foreground="White"/>
+        <CheckBox x:Name="PointCreateMount" IsChecked="False" Margin="211,407,1366,448" RenderTransformOrigin="0.5,0.451" />
+        <CheckBox x:Name="SpotCheckBox" IsChecked="False" Margin="51,484,1526,371" Checked="SpotCheckBox_Checked" />
+        <TextBlock Text="Spot" Margin="25,456,1501,392" TextAlignment="Center" Foreground="White"/>
+        <TextBlock Text="Vendor" Margin="111,456,1415,392" TextAlignment="Center" Foreground="White"/>
+        <CheckBox x:Name="VendorCheckBox" IsChecked="False" Margin="136,484,1441,371" Checked="VendorCheckBox_Checked" />
+        <CheckBox x:Name="GhostCheckBox" IsChecked="False" Margin="218,484,1359,371" Checked="GhostCheckBox_Checked" />
+        <TextBlock Text="Ghost" Margin="193,456,1333,392" TextAlignment="Center" Foreground="White"/>
+    </Grid>
+</Window>

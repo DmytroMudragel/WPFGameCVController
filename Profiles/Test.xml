@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<DotsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SpotDots>
+    <Dot Name="1s" X="44.26" Y="66.71" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="2s" X="43.87" Y="66.01" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="3s" X="42.91" Y="64.77" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="4s" X="42.36" Y="63.23" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="5s" X="42.81" Y="62.3" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="6s" X="43.64" Y="62.38" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="7s" X="44.38" Y="62.52" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="8s" X="44.66" Y="63.22" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="9s" X="44.42" Y="64.54" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="10s" X="44.27" Y="66.05" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="11s" X="44.34" Y="67.47" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+  </SpotDots>
+  <VendorDots>
+    <Dot Name="v1" X="43.8" Y="67.8" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="v2" X="42.87" Y="68.33" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="v3" X="42.56" Y="68.48" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="v4" X="42.38" Y="68.04" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="v5" X="42.49" Y="67.59" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+  </VendorDots>
+  <GhostDots>
+    <Dot Name="g1" X="43.89" Y="68.93" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+    <Dot Name="g2" X="43.82" Y="68.27" Radius="0.3" Accuracy="1" ScreenshotTimeout="400" Mount="False" />
+  </GhostDots>
+  <EdgeList>
+    <Edge Dot1="v1" Dot2="v2" />
+    <Edge Dot1="v3" Dot2="v2" />
+    <Edge Dot1="v3" Dot2="v4" />
+    <Edge Dot1="v5" Dot2="v4" />
+    <Edge Dot1="1s" Dot2="2s" />
+    <Edge Dot1="3s" Dot2="2s" />
+    <Edge Dot1="3s" Dot2="4s" />
+    <Edge Dot1="5s" Dot2="4s" />
+    <Edge Dot1="5s" Dot2="6s" />
+    <Edge Dot1="7s" Dot2="6s" />
+    <Edge Dot1="7s" Dot2="8s" />
+    <Edge Dot1="9s" Dot2="8s" />
+    <Edge Dot1="9s" Dot2="10s" />
+    <Edge Dot1="11s" Dot2="10s" />
+    <Edge Dot1="11s" Dot2="v1" />
+    <Edge Dot1="11s" Dot2="1s" />
+    <Edge Dot1="g1" Dot2="g2" />
+    <Edge Dot1="11s" Dot2="g2" />
+  </EdgeList>
+</DotsList>
